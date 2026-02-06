@@ -4,5 +4,5 @@ yaa meskipun masih sederhana saya juga berharap suata saat nanti saya bisa membu
 
 ## Clone Repo
 ```
-git https://github.com/afrizalldwi/Kalkulator-JS.git
+git clone https://github.com/afrizalldwi/Kalkulator-JS.git
 ```
